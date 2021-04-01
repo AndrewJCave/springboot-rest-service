@@ -1,4 +1,4 @@
-package com.andrewcave.springrest;
+package com.therealcavey.springrest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
